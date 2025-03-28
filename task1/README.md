@@ -41,3 +41,4 @@ Create a Terraform configuration that provisions an AWS S3 bucket with appropria
 - Do not commit AWS credentials to the repository
 - Research Terraform best practices before implementation
 - Consider how this initial setup could be extended for future tasks
+- testing
